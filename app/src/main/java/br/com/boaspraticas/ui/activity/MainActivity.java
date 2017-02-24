@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
    @Bind(R.id.main_usuarioPasswordEdt) EditText usuarioPassword;
    @Bind(R.id.main_layout)             LinearLayout main_layout;
 
+    //estou usando a branch v2
+
    private UsuarioServico mUsuarioServico;
 
     @Override
